@@ -1,5 +1,5 @@
 
-| JIRA |  [RDA-XXX](https://onduollc.atlassian.net/browse/RDA-XXX) |
+| JIRA |  RDA-XXX |
 | ---- | ---- |
 
 ## Description
