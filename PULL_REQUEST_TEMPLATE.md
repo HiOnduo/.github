@@ -1,5 +1,5 @@
 
-| JIRA |  RDA-XXX |
+| JIRA | [RDA-XXX] |
 | ---- | ---- |
 
 ## Description
